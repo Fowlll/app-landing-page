@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/app-landing-page/static/css/main.a617e044.chunk.css",
+    "main.js": "/app-landing-page/static/js/main.8e61acd9.chunk.js",
+    "main.js.map": "/app-landing-page/static/js/main.8e61acd9.chunk.js.map",
+    "runtime-main.js": "/app-landing-page/static/js/runtime-main.c17c720e.js",
+    "runtime-main.js.map": "/app-landing-page/static/js/runtime-main.c17c720e.js.map",
+    "static/js/2.7ad69c98.chunk.js": "/app-landing-page/static/js/2.7ad69c98.chunk.js",
+    "static/js/2.7ad69c98.chunk.js.map": "/app-landing-page/static/js/2.7ad69c98.chunk.js.map",
+    "static/js/3.a0444658.chunk.js": "/app-landing-page/static/js/3.a0444658.chunk.js",
+    "static/js/3.a0444658.chunk.js.map": "/app-landing-page/static/js/3.a0444658.chunk.js.map",
+    "index.html": "/app-landing-page/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/app-landing-page/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.7ad69c98.chunk.js.LICENSE.txt": "/app-landing-page/static/js/2.7ad69c98.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/app-landing-page/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c17c720e.js",
+    "static/js/2.7ad69c98.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.8e61acd9.chunk.js"
+  ]
+}
